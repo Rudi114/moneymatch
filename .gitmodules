@@ -1,0 +1,9 @@
+[submodule "fRPC-Substrate"]
+	path = fRPC-Substrate
+	url = https://github.com/fluencelabs/fRPC-Substrate.git
+[submodule "moneymatch-interface"]
+	path = moneymatch-interface
+	url = https://github.com/whoislewys/moneymatch-interface.git
+[submodule "moneymatch-contracts"]
+	path = moneymatch-contracts
+	url = https://github.com/whoislewys/moneymatch-contracts.git
