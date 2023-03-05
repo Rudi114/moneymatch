@@ -1,4 +1,4 @@
-# moneymatch
+# MoneyMatch
 On Chain Escrow Infrastructure for eSports Betting
 
 ## Getting Started
